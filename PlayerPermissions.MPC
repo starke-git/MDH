@@ -2,7 +2,6 @@
 // >> - New Group 
 // > - Permission Statement
 // + - Add extra Permission
-// -1 - Used For Banned Players
 
 >> Administrators > 2+99
 MagmaMc
@@ -12,5 +11,5 @@ Hywel Playz
 
 >> VIP > 1
 
->> BannedPlayers > -1
+>> BannedPlayers > 0
 
