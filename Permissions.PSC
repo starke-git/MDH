@@ -25,10 +25,10 @@ skulluna
 The Null point
 rookieforcookie
 
->> VIP > 6426
+>> VIP > VIP
 
 
->> WatchList > 5024
+>> WatchList > WatchList
 SPEEDSOUPCAN 4b74
 Billblast267 19e5
 male_04 6ee5
@@ -39,9 +39,9 @@ trollge1355 c583
 DeathBreath88
 the man is epic
 
->> TempBannedPlayers > 3071
+>> TempBannedPlayers > TempBanned
 
->> BannedPlayers > 0
+>> BannedPlayers > Banned
 OneEmoUzi
 Balloony23
 msimmons86 3544
