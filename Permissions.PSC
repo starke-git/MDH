@@ -23,9 +23,6 @@ The Null point
 rookieforcookie
 AaronFoxy10!
 
->> VIP > VIP
-
-
 >> WatchList > WatchList
 SPEEDSOUPCAN 4b74
 Billblast267 19e5
@@ -36,8 +33,6 @@ jackmightyy c897
 trollge1355 c583
 DeathBreath88
 the man is epic
-
->> TempBannedPlayers > TempBanned
 
 >> BannedPlayers > Banned
 OneEmoUzi
@@ -62,7 +57,6 @@ aleanhotdog
 Dannthemman 3b2e
 Apollyon290 d46e
 FamedPlanet
-
 jmp62558 d642
 fragoutsentry
 hemorrhoidharry
