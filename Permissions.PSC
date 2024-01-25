@@ -34,7 +34,7 @@ trollge1355 c583
 DeathBreath88
 the man is epic
 
->> TempBannedPlayers > Temp
+>> TempBannedPlayers > TempBanned
 <ENTER NAME HERE>
 
 >> BannedPlayers > Banned
