@@ -9,19 +9,22 @@ NotMagmaMc
 Hywel Playz
 x Stardust x
 brod13579
-Dαɾƙxɯσʅϝ17
+ԃαɾƙXɯσʅϝ17
 puffer__Fish
 LocalSS
 ZeroDawnMelx
 FlintEXP
 ~ØCyrox~
 Annulus_System
+The Null Point
+AaronFoxy10!
+ZacharySFM
 
 >> Mods > Staff
 skulluna
-The Null point
 rookieforcookie
-AaronFoxy10!
+BrolyVA
+Ariessa
 
 >> WatchList > Watchlist
 SPEEDSOUPCAN 4b74
@@ -38,31 +41,24 @@ the man is epic
 <ENTER NAME HERE>
 
 >> BannedPlayers > Banned
-OneEmoUzi
-Balloony23
-msimmons86 3544
-spyrider0410 fbf3
+// Avatar Ripper
 NefariousAngler
-TristanH2013 1bef
+
+// A Long List Of Reasons
 9Blade eee6
-Ticklebot_23
-ActionVR2
+
+// Crasher
 the real zurg
-kotwicz 371e
-Askewlion 0c6c
 zennetic
-ashely.d.people 5912
-Drone176MAX 9f38
-xyzwsc123_69 6d55
-explicitblunt e1b1
-ツ_Cora_ツ 
-aleanhotdog
-Dannthemman 3b2e
-Apollyon290 d46e
-FamedPlanet
+
+// Harrasment
+Gouda-Cheese
+
+// claiming to be able to dox with friend using Udon Moderation
+melonarc
+
+// Crasher + Harrasment - Group
 jmp62558 d642
 fragoutsentry
 hemorrhoidharry
 kingbananacat
-Eduardito0923 fbb0
-Gouda-Cheese
