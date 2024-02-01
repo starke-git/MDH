@@ -55,9 +55,6 @@ zennetic
 // Harrasment
 Gouda-Cheese
 
-// claiming to be able to dox with friend using Udon Moderation
-melonarc
-
 // Crasher + Harrasment - Group
 jmp62558 d642
 fragoutsentry
