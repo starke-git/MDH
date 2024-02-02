@@ -45,6 +45,7 @@ the man is epic
 >> BannedPlayers > Banned
 // Avatar Ripper
 NefariousAngler
+1_Cora_1
 
 // A Long List Of Reasons
 9Blade eee6
