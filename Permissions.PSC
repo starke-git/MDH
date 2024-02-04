@@ -40,10 +40,10 @@ DeathBreath88
 the man is epic
 
 >> TempBannedPlayers > TempBanned
-// Underage
-RECON_FORCE 1da3
 
 >> BannedPlayers > Banned
+// Underage
+RECON_FORCE 1da3
 // Avatar Ripper
 NefariousAngler
 1_Cora_1
