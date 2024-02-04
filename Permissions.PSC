@@ -40,7 +40,8 @@ DeathBreath88
 the man is epic
 
 >> TempBannedPlayers > TempBanned
-<ENTER NAME HERE>
+// Underage
+RECON_FORCE 1da3
 
 >> BannedPlayers > Banned
 // Avatar Ripper
@@ -64,6 +65,4 @@ fragoutsentry
 hemorrhoidharry
 kingbananacat
 
-// Underage
-RECON_FORCE 1da3
 
