@@ -20,6 +20,7 @@ Annulus_System
 The Null Point
 AaronFoxy10!
 ZacharySFM
+LicoricLLoise
 
 >> Mods > Staff
 skulluna
@@ -28,7 +29,6 @@ BrolyVA
 Ariessa
 Kipo Thomas
 hmmcube
-LicoricLLoise
 
 >> BetaTesters > Beta
 
