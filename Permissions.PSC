@@ -31,7 +31,14 @@ Kipo Thomas
 hmmcube
 
 >> BetaTesters > Beta
-
+Ariessa
+VortigauntDoc
+Splice_Anomaly
+ZacharySFM
+AaronFoxy10!
+BrolyVA
+M0lt3n_Sh4d0w
+Danielbenduch90 b135
 
 >> WatchList > Watchlist
 SPEEDSOUPCAN 4b74
