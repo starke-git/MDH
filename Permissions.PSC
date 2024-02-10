@@ -21,6 +21,7 @@ The Null Point
 AaronFoxy10!
 ZacharySFM
 LicoricLLoise
+Ellie_Williams
 
 >> Mods > Staff
 skulluna
@@ -88,8 +89,6 @@ spinosquid a934
 miso_soup1024 3471
 colten․james․2022 12bc
 
-// just some new ban system test
-Ellie_Williams
 
 // owns the group "i love murder drones no admins" and banned all admin in public instance
 Ducksonquack42
