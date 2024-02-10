@@ -22,13 +22,14 @@ AaronFoxy10!
 ZacharySFM
 LicoricLLoise
 Ellie__Williams
+『 NoxxyLav 』
+Kipo Thomas
 
 >> Mods > Staff
 skulluna
 rookieforcookie
 BrolyVA
 Ariessa
-Kipo Thomas
 hmmcube
 
 >> BetaTesters > Beta
