@@ -52,6 +52,7 @@ the man is epic
 Zynga
 
 >> TempBannedPlayers > TempBanned
+Spirall445 edc3
 
 >> BannedPlayers > Banned
 // Underage
