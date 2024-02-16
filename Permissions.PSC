@@ -54,6 +54,7 @@ Zynga
 ~Be_Hino~
 
 >> TempBannedPlayers > TempBanned
+// #annoying
 Spirall445 edc3
 
 >> BannedPlayers > Banned
@@ -91,6 +92,8 @@ spinosquid a934
 miso_soup1024 3471
 colten․james․2022 12bc
 
+// racist
+Rile793012
 
 // owns the group "i love murder drones no admins" and banned all admin in public instance
 Ducksonquack42
