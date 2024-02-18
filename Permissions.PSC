@@ -52,6 +52,11 @@ the man is epic
 Zynga
 //groomer
 ~Be_Hino~
+// Crasher + Harrasment - Group
+jmp62558 d642
+fragoutsentry
+hemorrhoidharry
+kingbananacat
 
 >> TempBannedPlayers > TempBanned
 // #annoying
@@ -78,10 +83,6 @@ dragonclaw067
 Gouda-Cheese
 user_864036666832850 77ea
 
-// Crasher + Harrasment - Group
-jmp62558 d642
-fragoutsentry
-hemorrhoidharry
 
 // "Woman dont exist they say"
 gamergabe
