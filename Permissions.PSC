@@ -95,6 +95,11 @@ colten․james․2022 12bc
 // racist
 Rile793012
 
+
+//
+NtxAlex
+Frost Foxx
+
 // owns the group "i love murder drones no admins" and banned all admin in public instance
 Ducksonquack42
 
