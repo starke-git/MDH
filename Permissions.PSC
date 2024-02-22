@@ -63,6 +63,7 @@ kingbananacat
 >> TempBannedPlayers > TempBanned
 // #annoying
 Spirall445 edc3
+134coolnis f4d1
 
 >> BannedPlayers > Banned
 // Underage
