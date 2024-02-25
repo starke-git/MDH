@@ -3,14 +3,17 @@
 // > - Permission Statement
 // + - Add extra Permission
 
->> Administrators > Admin+Staff
+>> Owners > Higher+Admin+Staff
 MagmaMc
 NotMagmaMc
+Hywel Playz
 x Stardust x
+puffer__Fish
 AW30
+
+>> Administrators > Admin+Staff
 brod13579
 ԃαɾƙXɯσʅϝ17
-puffer__Fish
 LocalSS
 ZeroDawnMelx
 FlintEXP
@@ -25,7 +28,6 @@ Kipo Thomas
 rookieforcookie
 Splice_Anomaly
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
-Hywel Playz
 
 >> Mods > Staff
 skulluna
