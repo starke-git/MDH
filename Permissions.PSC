@@ -25,7 +25,6 @@ LicoricLLoise
 Ellie__Williams
 『 NoxxyLav 』
 Kipo Thomas
-rookieforcookie
 Splice_Anomaly
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 
@@ -42,6 +41,9 @@ king_dark_arts1 276f
 TheEmberFang
 ZacharySFM
 CorruptedID8765
+RussianKratos
+rookieforcookie
+The Tickler 6538
 
 >> WatchList > Watchlist
 SPEEDSOUPCAN 4b74
@@ -108,5 +110,3 @@ Frost Foxx
 
 // owns the group "i love murder drones no admins" and banned all admin in public instance
 Ducksonquack42
-
-RussianKratos
