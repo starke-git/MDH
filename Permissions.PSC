@@ -32,7 +32,6 @@ c̴͍̊ẖ̶͛ạ̷̛o̴s
 skulluna
 BrolyVA
 Ariessa
-hmmcube
 psychoyuri
 noxxisdum
 Dr․ Eggman 0e30
@@ -69,6 +68,7 @@ kingbananacat
 // #annoying
 Spirall445 edc3
 134coolnis f4d1
+hmmcube
 
 >> BannedPlayers > Banned
 // Underage
