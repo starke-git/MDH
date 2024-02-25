@@ -107,3 +107,4 @@ Frost Foxx
 // owns the group "i love murder drones no admins" and banned all admin in public instance
 Ducksonquack42
 
+RussianKratos
