@@ -21,7 +21,7 @@ FlintEXP
 Annulus_System
 The Null Point
 AaronFoxy10ǃ
-LicoricLLoise
+LicoriceLLoise
 Ellie__Williams
 『 NoxxyLav 』
 Kipo Thomas
