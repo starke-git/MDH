@@ -3,7 +3,7 @@
 // > - Permission Statement
 // + - Add extra Permission
 
->> Owners > Higher+Admin+Staff
+>> Owners > Higher+Admin+Staff+VIP
 MagmaMc
 NotMagmaMc
 Hywel Playz
@@ -11,7 +11,7 @@ x Stardust x
 puffer__Fish
 AW30
 
->> Administrators > Admin+Staff
+>> Administrators > Admin+Staff+VIP
 brod13579
 ԃαɾƙXɯσʅϝ17
 LocalSS
@@ -26,7 +26,7 @@ Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 The Tickler 6538
 
->> Mods > Staff
+>> Mods > Staff+VIP
 skulluna
 BrolyVA
 Ariessa
