@@ -26,6 +26,7 @@ Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 The Tickler 6538
 FuzzyTacoVR
+Pandoras.box
 
 >> Mods > Staff+VIP
 skulluna
@@ -33,10 +34,6 @@ BrolyVA
 Ariessa
 psychoyuri
 noxxisdum
-Dr․ Eggman 0e30
-spencer123․2023 eb6a
-king_dark_arts1 276f
-TheEmberFang
 ZacharySFM
 RussianKratos
 rookieforcookie
