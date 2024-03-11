@@ -53,8 +53,7 @@ DeathBreath88
 the man is epic
 //groomer
 ~Be_Hino~
-// Crasher + Harrasment - Group
-jmp62558 d642
+
 ԃαɾƙXɯσʅϝ17
 
 >> TempBannedPlayers > TempBanned
@@ -74,7 +73,8 @@ NefariousAngler
 // A Long List Of Reasons
 9Blade eee6
 
-// Active Crasher + General Nuissance
+// Active Crasher + General Nuissance - Group
+jmp62558 d642
 FragOutSentry
 HemorrhoidHarry
 KingBananaCat
