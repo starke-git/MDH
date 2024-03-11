@@ -55,9 +55,6 @@ the man is epic
 ~Be_Hino~
 // Crasher + Harrasment - Group
 jmp62558 d642
-fragoutsentry
-hemorrhoidharry
-kingbananacat
 ԃαɾƙXɯσʅϝ17
 
 >> TempBannedPlayers > TempBanned
@@ -76,6 +73,11 @@ NefariousAngler
 
 // A Long List Of Reasons
 9Blade eee6
+
+// Active Crasher + General Nuissance
+fragoutsentry
+hemorrhoidharry
+kingbanancat
 
 //
 NtxAlex
