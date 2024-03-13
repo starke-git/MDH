@@ -69,7 +69,6 @@ BedBathAndYourMom b4df
 ԃαɾƙXɯσʅϝ17
 Izzyyyyy
 Yuu Koito
-Hell_Killer
 
 // Avatar Ripper
 NefariousAngler
