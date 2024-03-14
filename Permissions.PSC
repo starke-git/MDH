@@ -48,6 +48,7 @@ vortigauntdoc
 
 >> VIP > VIP
 Fire_Wolff
+EleanorTheChupa
 
 >> WatchList > Watchlist
 DeathBreath88
