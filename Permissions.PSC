@@ -27,6 +27,7 @@ The Tickler 6538
 FuzzyTacoVR
 Pandoras.box
 calypsoscarnage
+ZeroDawnMelx
 
 >> Mods > Staff+VIP
 skulluna
@@ -38,7 +39,6 @@ ZacharySFM
 RussianKratos
 rookieforcookie
 Splice_Anomaly
-ZeroDawnMelx
 LicoriceLLoise
 CorruptedID8765
 Toxic Coco
