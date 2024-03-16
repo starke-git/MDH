@@ -28,6 +28,7 @@ FuzzyTacoVR
 Pandoras.box
 calypsoscarnage
 ZeroDawnMelx
+~Dollfictive~
 
 >> Mods > Staff+VIP
 skulluna
@@ -50,7 +51,6 @@ Starke․
 >> VIP > VIP
 Fire_Wolff
 EleanorTheChupa
-~Dollfictive~
 
 >> WatchList > Watchlist
 DeathBreath88
