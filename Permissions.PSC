@@ -75,6 +75,7 @@ Izzyyyyy
 Yuu Koito
 Kiro123999
 mycatexploded 9b05
+doggos_yes cf2b
 
 // Avatar Ripper
 NefariousAngler
