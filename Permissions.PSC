@@ -30,6 +30,7 @@ calypsoscarnage
 ZeroDawnMelx
 Starke․
 
+
 >> Mods > Staff+VIP
 skulluna
 BrolyVA
@@ -71,6 +72,11 @@ KingEthan417 9e24
 BedBathAndYourMom b4df
 catnap123 4085
 tokyodrift2020 f9e8
+
+// RULE 1 no skibity avatars
+F̶r̶a̶n̶k̶
+YoungGuy610
+Carla_horne_354
 
 ԃαɾƙXɯσʅϝ17
 Izzyyyyy
