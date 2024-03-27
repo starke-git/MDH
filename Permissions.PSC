@@ -21,7 +21,6 @@ FlintEXP
 Annulus_System
 The Null Point
 AaronFoxy10ǃ
-RussianKratos
 Ellie__Williams
 『 NoxxyLav 』
 Kipo Thomas
@@ -49,6 +48,7 @@ Toxic Coco
 Midnight-V
 vortigauntdoc
 SD_H98
+RussianKratos
 
 >> VIP > VIP
 Fire_Wolff
