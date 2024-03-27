@@ -66,6 +66,7 @@ guy_flavortown
 PoopKid69 8f34
 // 2months -> 5/26
 funny․boy․17․2023 7106 
+
 >> BannedPlayers > Banned
 // Underage
 RECON_FORCE 1da3
@@ -78,6 +79,10 @@ SZH4
 J murder drone4
 mikeandlizzie 532d
 X_SillyPanda_X 62ee
+woahhhhhhhhhhhhhhh 538a
+
+
+https://vrchat.com/home/user/usr_9e2608c5-88d3-4808-85ad-d8870e7e538a
 
 // RULE 1 no skibity avatars
 F̶r̶a̶n̶k̶
