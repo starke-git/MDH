@@ -26,7 +26,7 @@ Ellie__Williams
 Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 The Tickler 6538
-FuzzyTacoVR
+FuzzyTaco
 Pandoras.box
 calypsoscarnage
 ZeroDawnMelx
