@@ -15,6 +15,7 @@ CorruptedID8765
 
 
 >> Administrators > Admin+Staff+VIP
+LocalSS
 FlintEXP
 ~ØCyrox~
 Annulus_System
@@ -59,7 +60,6 @@ DeathBreath88
 the man is epic
 //groomer
 ~Be_Hino~
-LocalSS
 
 >> TempBannedPlayers > TempBanned
 caleab2007 b7f6
