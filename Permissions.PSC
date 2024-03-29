@@ -37,8 +37,6 @@ BrolyVA
 Ariessa
 psychoyuri
 noxxisdum
-ZacharySFM
-rookieforcookie
 Splice_Anomaly
 LicoriceLLoise
 Toxic Coco
