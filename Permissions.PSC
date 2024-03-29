@@ -24,7 +24,6 @@ Ellie__Williams
 『 NoxxyLav 』
 Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
-The Tickler 6538
 fuzzytaco-
 Pandoras.box
 calypsoscarnage
@@ -47,7 +46,6 @@ Toxic Coco
 Midnight-V
 vortigauntdoc
 SD_H98
-RussianKratos
 ~ØCyrox~
 
 >> VIP > VIP
