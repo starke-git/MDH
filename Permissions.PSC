@@ -15,10 +15,8 @@ CorruptedID8765
 
 
 >> Administrators > Admin+Staff+VIP
-LocalSS
 FlintEXP
 Annulus_System
-The Null Point
 AaronFoxy10ǃ
 Ellie__Williams
 『 NoxxyLav 』
@@ -32,11 +30,10 @@ Starke․
 
 
 >> Mods > Staff+VIP
-skulluna
+LocalSS
 BrolyVA
 Ariessa
 psychoyuri
-noxxisdum
 Splice_Anomaly
 LicoriceLLoise
 Toxic Coco
@@ -45,6 +42,7 @@ Midnight-V
 vortigauntdoc
 SD_H98
 ~ØCyrox~
+The Null Point
 
 >> VIP > VIP
 Fire_Wolff
