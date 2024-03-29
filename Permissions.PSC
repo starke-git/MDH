@@ -17,7 +17,6 @@ CorruptedID8765
 >> Administrators > Admin+Staff+VIP
 LocalSS
 FlintEXP
-~ØCyrox~
 Annulus_System
 The Null Point
 AaronFoxy10ǃ
@@ -49,6 +48,7 @@ Midnight-V
 vortigauntdoc
 SD_H98
 RussianKratos
+~ØCyrox~
 
 >> VIP > VIP
 Fire_Wolff
