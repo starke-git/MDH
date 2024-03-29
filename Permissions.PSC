@@ -53,7 +53,6 @@ EleanorTheChupa
 
 >> WatchList > Watchlist
 DeathBreath88
-the man is epic
 //groomer
 ~Be_Hino~
 
@@ -81,6 +80,7 @@ woahhhhhhhhhhhhhhh 538a
 Formaldihyde
 Bagman4585
 THE man is EPIC
+The Tickler 6538
 
 // RULE 1 no skibity avatars
 F̶r̶a̶n̶k̶
