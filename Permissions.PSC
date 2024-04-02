@@ -28,6 +28,7 @@ calypsoscarnage
 ZeroDawnMelx
 Starke․
 NightDrake360
+RussianKratos 
 
 >> Mods > Staff+VIP
 LocalSS
@@ -44,7 +45,6 @@ SD_H98
 ~ØCyrox~
 The Null Point
 KukuPickles
-RussianKratos 
 XoAaron_HTF
 
 >> VIP > VIP
