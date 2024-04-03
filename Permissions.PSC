@@ -42,7 +42,6 @@ vortigauntdoc
 SD_H98
 ~ØCyrox~
 The Null Point
-KukuPickles
 XoAaron_HTF
 
 >> VIP > VIP
