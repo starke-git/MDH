@@ -26,7 +26,6 @@ Pandoras.box
 calypsoscarnage
 ZeroDawnMelx
 Starke․
-NightDrake360
 RussianKratos 
 
 >> Mods > Staff+VIP
