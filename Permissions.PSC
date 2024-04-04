@@ -67,6 +67,8 @@ funny․boy․17․2023 7106
 elifoxboidel e892
 Dutchfyre 4fc1
 Dark hero24
+// fucking bitch who is very likely underaged and blocked admins
+TBGclawZz d721
 
 >> BannedPlayers > Banned
 // Underage
