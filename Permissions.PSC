@@ -27,7 +27,6 @@ Pandoras.box
 calypsoscarnage
 ZeroDawnMelx
 Starke․
-RussianKratos
 
 >> Mods > Staff+VIP
 LocalSS
@@ -44,6 +43,7 @@ SD_H98
 ~ØCyrox~
 The Null Point
 XoAaron_HTF
+RussianKratos 
 
 >> VIP > VIP
 Fire_Wolff
