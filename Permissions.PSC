@@ -9,12 +9,11 @@ NotMagmaMc
 Hywel Playz
 x Stardust x
 puffer__Fish
-aw30
-brod13579
 CorruptedID8765
 
 
 >> Administrators > Admin+Staff+VIP
+brod13579
 FlintEXP
 Annulus_System
 AaronFoxy10ǃ
