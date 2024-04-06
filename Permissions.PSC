@@ -69,7 +69,6 @@ Dutchfyre 4fc1
 Dark hero24
 // fucking bitch who is very likely underaged and blocked admins
 TBGclawZz d721
-Peter_Griffin96
 Pocalypse
 
 >> BannedPlayers > Banned
