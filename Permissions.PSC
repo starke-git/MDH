@@ -69,6 +69,8 @@ Dutchfyre 4fc1
 Dark hero24
 // fucking bitch who is very likely underaged and blocked admins
 TBGclawZz d721
+Peter_Griffin96
+Pocalypse
 
 >> BannedPlayers > Banned
 // Underage
@@ -105,7 +107,6 @@ TheGreatDude10 bb24
 Normal_lean
 ScarDunity
 Tucksimps a58e
-Pocalypse
 
 // RULE 1 no skibity avatars
 F̶r̶a̶n̶k̶
