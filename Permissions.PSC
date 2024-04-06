@@ -62,17 +62,18 @@ caleab2007 b7f6
 guy_flavortown
 PoopKid69 8f34
 ༒Designation N༒
+TBGclawZz d721
+
 // 2months -> 5/26
 funny․boy․17․2023 7106 
 elifoxboidel e892
 Dutchfyre 4fc1
 Dark hero24
-// fucking bitch who is very likely underaged and blocked admins
-TBGclawZz d721
 Pocalypse
 max․182629 c127
 SixOhEightAM 40d4
 Gl1tchyG0d
+scarDunity
 
 >> BannedPlayers > Banned
 // Underage
