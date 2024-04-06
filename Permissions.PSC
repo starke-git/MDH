@@ -70,6 +70,7 @@ Dark hero24
 // fucking bitch who is very likely underaged and blocked admins
 TBGclawZz d721
 Pocalypse
+max․182629 c127
 
 >> BannedPlayers > Banned
 // Underage
