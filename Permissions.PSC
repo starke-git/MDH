@@ -79,6 +79,7 @@ scarDunity
 
 >> BannedPlayers > Banned
 // Underage
+XRLightRX 7a9e
 RECON_FORCE 1da3
 ghosthost209 b20d
 KingEthan417 9e24
