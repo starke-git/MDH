@@ -77,6 +77,10 @@ Gl1tchyG0d
 scarDunity
 
 >> BannedPlayers > Banned
+
+// racist
+Emanstraight
+
 // Underage
 XRLightRX 7a9e
 RECON_FORCE 1da3
