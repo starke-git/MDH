@@ -110,6 +110,7 @@ Normal_lean
 ScarDunity
 Tucksimps a58e
 ValientheXDZ a19a
+SilverHero_gaming da46
 
 // RULE 1 no skibity avatars
 F̶r̶a̶n̶k̶
