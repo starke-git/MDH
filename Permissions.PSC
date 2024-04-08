@@ -15,37 +15,30 @@ x Stardust x
 puffer__Fish
 CorruptedID8765
 
-// 14/5
+// 11/5
 >> Administrators > Admin+Staff+VIP
 brod13579
 FlintEXP
-Annulus_System
 AaronFoxy10ǃ
-Ellie__Williams
 『 NoxxyLav 』
 Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 fuzzytaco-
 Pandoras.box
-calypsoscarnage
 ZeroDawnMelx
 Starke․
 RussianKratos 
 
-// 14/10
+// 10/10
 >> Mods > Staff+VIP
 LocalSS
-BrolyVA
-Ariessa
 psychoyuri
 Splice_Anomaly
 LicoriceLLoise
 Toxic Coco
--DeviousYeva-
 Midnight-V
 vortigauntdoc
 SD_H98
-~ØCyrox~
 The Null Point
 XoAaron_HTF 
 
