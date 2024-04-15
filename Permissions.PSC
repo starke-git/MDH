@@ -140,8 +140,6 @@ Cronikgamer 885d
 twitchy․2 d240
 
 
-Izzyyyyy
-Yuu Koito
 Kiro123999
 mycatexploded 9b05
 doggos_yes cf2b
