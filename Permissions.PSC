@@ -15,7 +15,7 @@ x Stardust x
 puffer__Fish
 CorruptedID8765
 
-// 11/5
+// 12/5
 >> Administrators > Admin+Staff+VIP
 brod13579
 FlintEXP
@@ -28,13 +28,13 @@ Pandoras.box
 ZeroDawnMelx
 Starke․
 RussianKratos 
+LicoriceLLoise
 
-// 10/10
+// 9/10
 >> Mods > Staff+VIP
 LocalSS
 psychoyuri
 Splice_Anomaly
-LicoriceLLoise
 Toxic Coco
 Midnight-V
 vortigauntdoc
