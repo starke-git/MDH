@@ -10,11 +10,11 @@ enter player name here
 // 5/5
 >> Owners > Higher+Admin+Staff+VIP
 MagmaMc
+MagmaMCVR
 Hywel Playz
 x Stardust x
 puffer__Fish
 CorruptedID8765
-vrcrt_9
 
 // 12/5
 >> Administrators > Admin+Staff+VIP
