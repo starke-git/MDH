@@ -21,14 +21,14 @@ vrcrt_9
 brod13579
 FlintEXP
 AaronFoxy10ǃ
+RussianKratos
 『 NoxxyLav 』
 Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 fuzzytaco-
 Pandoras.box
 ZeroDawnMelx
-Starke․
-RussianKratos 
+Starke․ 
 LicoriceLLoise
 
 // 9/10
