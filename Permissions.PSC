@@ -32,7 +32,7 @@ Starke․
 LicoriceLLoise
 XoAaron_HTF 
 
-// 9/10
+// 8/10
 >> Mods > Staff+VIP
 LocalSS
 psychoyuri
