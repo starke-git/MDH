@@ -32,7 +32,7 @@ Starke․
 LicoriceLLoise
 XoAaron_HTF 
 
-// 9/10
+// 10/10
 >> Mods > Staff+VIP
 LocalSS
 psychoyuri
@@ -43,6 +43,7 @@ vortigauntdoc
 ZacharySFM
 The Null Point
 DarkDeerAlastor
+Fantastic Lunar
 
 >> VIP > VIP
 Fire_Wolff
