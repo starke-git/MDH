@@ -50,7 +50,6 @@ Fire_Wolff
 EleanorTheChupa
 ~Dollfictive~
 IElizabeth
-Fantastic Lunar
 
 >> WatchList > Watchlist
 DeathBreath88
