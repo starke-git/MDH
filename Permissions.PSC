@@ -32,7 +32,7 @@ Starke․
 LicoriceLLoise
 XoAaron_HTF 
 
-// 8/10
+// 9/10
 >> Mods > Staff+VIP
 LocalSS
 psychoyuri
@@ -42,13 +42,14 @@ Midnight-V
 vortigauntdoc
 ZacharySFM
 The Null Point
-
+DarkDeerAlastor
 
 >> VIP > VIP
 Fire_Wolff
 EleanorTheChupa
 ~Dollfictive~
 IElizabeth
+Fantastic Lunar
 
 >> WatchList > Watchlist
 DeathBreath88
