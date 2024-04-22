@@ -31,8 +31,9 @@ ZeroDawnMelx
 Starke․ 
 LicoriceLLoise
 XoAaron_HTF 
+DarkDeerAlastor
 
-// 10/10
+// 9/10
 >> Mods > Staff+VIP
 LocalSS
 psychoyuri
@@ -42,7 +43,6 @@ Midnight-V
 vortigauntdoc
 ZacharySFM
 The Null Point
-DarkDeerAlastor
 Fantastic Lunar
 
 >> VIP > VIP
