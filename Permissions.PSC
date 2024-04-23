@@ -154,7 +154,6 @@ twitchy․2 d240
 Muzzy140309 ac91
 
 
-Kiro123999
 mycatexploded 9b05
 doggos_yes cf2b
 
