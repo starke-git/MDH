@@ -68,8 +68,6 @@ dar15j
 moabb
 JayNVP777 8d34
 
-// 2months -> 5/26
-funny․boy․17․2023 7106 
 elifoxboidel e892
 Dutchfyre 4fc1
 Dark hero24
@@ -78,6 +76,8 @@ max․182629 c127
 SixOhEightAM 40d4
 Gl1tchyG0d
 scarDunity
+// 6/24
+liamharron.2024 cc8f 
 
 >> BannedPlayers > Banned
 //creep
