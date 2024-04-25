@@ -15,6 +15,7 @@ Hywel Playz
 x Stardust x
 puffer__Fish
 CorruptedID8765
+DarkDeerAlastor
 
 // 13/5
 >> Administrators > Admin+Staff+VIP
@@ -31,7 +32,6 @@ ZeroDawnMelx
 Starke․ 
 LicoriceLLoise
 XoAaron_HTF 
-DarkDeerAlastor
 
 // 9/10
 >> Mods > Staff+VIP
