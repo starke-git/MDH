@@ -81,7 +81,9 @@ liamharron.2024 cc8f
 
 >> BannedPlayers > Banned
 //creep
+Zaldoism 316c
 Maoyii 16af
+
 // racist
 Emanstraight
 monkeyballer a84f
