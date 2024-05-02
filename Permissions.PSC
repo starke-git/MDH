@@ -18,7 +18,6 @@ CorruptedID8765
 
 // 13/5
 >> Administrators > Admin+Staff+VIP
-DarkDeerAlastor
 Fantastic Lunar
 brod13579
 FlintEXP
