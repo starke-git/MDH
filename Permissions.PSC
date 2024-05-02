@@ -9,36 +9,34 @@ enter player name here
 
 // 5/5
 >> Owners > Higher+Admin+Staff+VIP
-MagmaMc
 MagmaMCVR
 Hywel Playz
 x Stardust x
 puffer__Fish
 CorruptedID8765
 
-// 13/5
+// 11/10
 >> Administrators > Admin+Staff+VIP
 Fantastic Lunar
 brod13579
 FlintEXP
 AaronFoxy10ǃ
 RussianKratos
-『 NoxxyLav 』
 Kipo Thomas
 c̴͍̊ẖ̶͛ạ̷̛o̴s 
 fuzzytaco-
+Starke․ 
+XoAaron_HTF 
+Toxic Coco
+
+// 10/15
+>> Mods > Staff+VIP
 Pandoras.box
 ZeroDawnMelx
-Starke․ 
 LicoriceLLoise
-XoAaron_HTF 
-
-// 9/10
->> Mods > Staff+VIP
 LocalSS
 psychoyuri
 Splice_Anomaly
-Toxic Coco
 Midnight-V
 vortigauntdoc
 ZacharySFM
