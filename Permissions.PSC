@@ -202,8 +202,3 @@ Ducksonquack42
 //
 kaburnicas
 
-//re re drama
-DʀᴏɴᴇTᴀsᴛɪᴄ
-MakiDaBlend
-Leoxeni
-Hi_ImAsh
