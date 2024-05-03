@@ -17,7 +17,6 @@ CorruptedID8765
 
 // 11/10
 >> Administrators > Admin+Staff+VIP
-Fantastic Lunar
 brod13579
 FlintEXP
 AaronFoxy10ǃ
