@@ -7,3 +7,5 @@
 >> OWNERS > Higher+Admin+Staff+VIP
 
 >> ADMINISTRATORS > Admin+Staff+VIP
+
+>> MODS > Staff+VIP
