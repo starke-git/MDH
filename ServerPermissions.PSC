@@ -12,6 +12,8 @@
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 
+>> BANNEDPLAYERS > Banned
+
 >> VIP > VIP
 
 >> MODS > Staff+VIP
