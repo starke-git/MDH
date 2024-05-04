@@ -4,6 +4,8 @@
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
+>> TEMPBANNEDPLAYERS > TempBanned
+
 >> OWNERS > Higher+Admin+Staff+VIP
 
 >> WATCHLIST > WatchList
