@@ -120,7 +120,6 @@ THE man is EPIC
 The Tickler 6538
 Demonmango14 bb1a
 TheGreatDude10 bb24
-Normal_lean
 ScarDunity
 Tucksimps a58e
 ValientheXDZ a19a
