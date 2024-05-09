@@ -182,6 +182,9 @@ BalloonDoq
 9Blade eee6
 ChoppieXD 7cae
 
+// crasher + nsfw
+usr_a678f2fd-bf09-45c3-8c86-87754738741a
+
 // Active Crasher + General Nuissance - Group
 jmp62558 d642
 FragOutSentry
