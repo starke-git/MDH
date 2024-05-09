@@ -183,7 +183,7 @@ BalloonDoq
 ChoppieXD 7cae
 
 // crasher + nsfw
-C0ckLover
+D̴͎͗I̸̦̕E̴͈̅
 
 // Active Crasher + General Nuissance - Group
 jmp62558 d642
