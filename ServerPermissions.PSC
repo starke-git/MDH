@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/5/24 11:24 AM - V1.0.0
+//VRCWMT - UTC 12/5/24 11:27 AM - V1.0.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -21,5 +21,6 @@ DaveyCornerYT
 >> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
+JasonPlayz_HTF
 
 >> VIP > VIP
