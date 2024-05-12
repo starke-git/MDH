@@ -15,7 +15,7 @@ x Stardust x
 puffer__Fish
 CorruptedID8765
 
-// 10/10
+// 9/10
 >> Administrators > Admin+Staff+VIP
 FlintEXP
 brod13579
@@ -26,20 +26,17 @@ c̴͍̊ẖ̶͛ạ̷̛o̴s
 LicoriceLLoise
 Starke․ 
 JasonPlayz_HTF
-Toxic Coco
 
-// 10/15
+// 7/15
 >> Mods > Staff+VIP
 Pandoras.box
-ZeroDawnMelx
-LocalSS
 psychoyuri
 Splice_Anomaly
 Midnight-V
 vortigauntdoc
 ZacharySFM
-The Null Point
 fuzzytaco-
+Toxic Coco
 
 >> VIP > VIP
 Fire_Wolff
