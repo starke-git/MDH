@@ -51,8 +51,10 @@ DaveyCornerYT
 
 >> WatchList > Watchlist
 DeathBreath88
+
 //groomer
 ~Be_Hino~
+
 >> TempBannedPlayers > TempBanned
 caleab2007 b7f6
 guy_flavortown
@@ -71,6 +73,7 @@ max․182629 c127
 SixOhEightAM 40d4
 Gl1tchyG0d
 scarDunity
+
 // 6/24
 liamharron.2024 cc8f 
 
@@ -206,7 +209,7 @@ LawVA_
 Kar98k7․92 f252
 BUTT LICKER 79
 
-//
+// Group Drama
 NtxAlex
 Frost Foxx
 
@@ -223,3 +226,5 @@ spiderbr.205476 979f
 __Violettexem__
 Aιʂʊɮʅσσԃɳɨɠԋƚ
 
+// A sexual creep goes behind afkers and make weird noises
+Denjipanda
