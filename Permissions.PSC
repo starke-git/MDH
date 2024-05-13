@@ -224,3 +224,8 @@ spiderbr.205476 979f
 __Violettexem__
 Aιʂʊɮʅσσԃɳɨɠԋƚ
 
+// Racist kids groupped together
+lean․hashira 0442
+partyallnight607 550a
+Madusa21
+cry-of-fear
