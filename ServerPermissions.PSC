@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/5/24 9:49 PM - V1.1.0
+//VRCWMT - UTC 14/5/24 9:54 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -39,8 +39,11 @@ doggos_yes cf2b
 Maoyii 16af
 Madusa21
 lean․hashira 0442
+Denjipanda
 ScarDunity
+Real_Luigi
 cry-of-fear
+david․bickel․9231 3010
 
 >> VIP > VIP
 StoneHatchet
