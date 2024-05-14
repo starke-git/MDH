@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/5/24 7:34 PM - V1.1.0
+//VRCWMT - UTC 14/5/24 9:47 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -35,6 +35,10 @@ psychoyuri
 >> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
+Maoyii 16af
+Madusa21
+lean․hashira 0442
+cry-of-fear
 
 >> VIP > VIP
 StoneHatchet
