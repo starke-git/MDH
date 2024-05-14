@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/5/24 1:08 PM - V1.1.0
+//VRCWMT - UTC 14/5/24 7:34 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -13,13 +13,14 @@ X StarDust X
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 AaronFoxy10ǃ
-JasonPlayz_HTF
 Kipo Thomas
+JasonPlayz_HTF
 LicoriceLLoise
-Starke․
 FlintEXP
+Starke․
 brod13579
 c̴͍̊ẖ̶͛ạ̷̛o̴s
+Splice_Anomaly
 RussianKratos
 
 >> MODERATORS > Staff+VIP
@@ -28,7 +29,6 @@ fuzzytaco-
 VortigauntDoc
 Toxic Coco
 psychoyuri
-Splice_Anomaly
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
