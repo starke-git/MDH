@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 13/5/24 1:23 PM - V1.0.0
+//VRCWMT - UTC 14/5/24 12:49 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -22,3 +22,4 @@ X StarDust X
 >> BANNEDPLAYERS > Banned
 
 >> VIP > VIP
+IElizabeth
