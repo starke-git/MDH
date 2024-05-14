@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/5/24 10:11 PM - V1.1.0
+//VRCWMT - UTC 14/5/24 10:30 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -35,28 +35,42 @@ psychoyuri
 >> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
+woahhhhhhhhhhhhhhh 538a
 david․bickel․9231 3010
 D̴͎͗I̸̦̕E̴͈̅
 Madusa21
+logiebear1111 6271
 chenille_vance c4fe
 tazbo80 5d56
+J murder drone4
 Jaxonking28 e084
 Real_Luigi
 ~Mr-Demi~
+ZathanB13 3af2
 lean․hashira 0442
 Angelia7066 58ce
 doggos_yes cf2b
+KingBananaCat
 MoonPenguinGod
 DarkDeerAlastor
 Denjipanda
+Sophiac10 727b
 Harrybo0909 177d
+__Starfire__
 ․Nagi․
 i_love_mefedron f770
 ScarDunity
+Lukeswinney2011 f7b2
 Jahxhd b2a9
 Kepmt 9a97
+X_SillyPanda_X 62ee
+mikeandlizzie 532d
 Maoyii 16af
 cry-of-fear
+Kar98k7․92 f252
+（D A M I A N）
+LawVA_
+morton․koopa12 dadc
 Nogueira a940
 Springerror040
 
