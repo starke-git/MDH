@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/5/24 12:56 PM - V1.1.0
+//VRCWMT - UTC 14/5/24 1:08 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -23,6 +23,12 @@ c̴͍̊ẖ̶͛ạ̷̛o̴s
 RussianKratos
 
 >> MODERATORS > Staff+VIP
+ZacharySFM
+fuzzytaco-
+VortigauntDoc
+Toxic Coco
+psychoyuri
+Splice_Anomaly
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
@@ -31,4 +37,7 @@ RussianKratos
 >> BANNEDPLAYERS > Banned
 
 >> VIP > VIP
+StoneHatchet
+ԃαɾƙXɯσʅϝ17
 IElizabeth
+rookieforcookie
