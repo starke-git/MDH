@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 12:44 AM - V1.1.0
+//VRCWMT - UTC 15/5/24 2:20 AM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -35,6 +35,7 @@ psychoyuri
 >> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
+SD-F
 woahhhhhhhhhhhhhhh 538a
 david․bickel․9231 3010
 D̴͎͗I̸̦̕E̴͈̅
