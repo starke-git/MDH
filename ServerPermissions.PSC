@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 8:56 AM - V1.1.0
+//VRCWMT - UTC 15/5/24 4:46 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -59,11 +59,13 @@ ScarDunity
 Angelia7066 58ce
 lean․hashira 0442
 DarkDeerAlastor
+Mardok efb6
 crys․21388 68b9
 ~Mr-Demi~
 Maoyii 16af
 Y⁄N≺3
 Gentle fatass cat cd39
+FRIGHT THE SCARY BUNNY 6528
 Jaxonking28 e084
 Lukeswinney2011 f7b2
 Denjipanda
