@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 2:20 AM - V1.1.0
+//VRCWMT - UTC 15/5/24 2:23 AM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -59,6 +59,7 @@ Denjipanda
 Sophiac10 727b
 Harrybo0909 177d
 __Starfire__
+crys․21388 68b9
 ․Nagi․
 i_love_mefedron f770
 ScarDunity
