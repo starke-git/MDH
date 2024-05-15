@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 8:14 PM - V1.1.0
+//VRCWMT - UTC 15/5/24 8:59 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -46,6 +46,7 @@ Gentle fatass cat cd39
 Madusa21
 FRIGHT THE SCARY BUNNY 6528
 logiebear1111 6271
+Bluedragonspeed
 chenille_vance c4fe
 tazbo80 5d56
 J murder drone4
