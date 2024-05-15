@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 5:50 PM - V1.1.0
+//VRCWMT - UTC 15/5/24 7:12 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -37,6 +37,7 @@ Kingdier108 634e
 
 >> BANNEDPLAYERS > Banned
 ․Nagi․
+dylan2013e
 ZathanB13 3af2
 Real_Luigi
 D̴͎͗I̸̦̕E̴͈̅
