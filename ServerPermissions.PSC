@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 8:59 PM - V1.1.0
+//VRCWMT - UTC 15/5/24 11:02 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -56,6 +56,7 @@ Real_Luigi
 Mardok efb6
 lean․hashira 0442
 ZathanB13 3af2
+Fxnt1me_not
 Angelia7066 58ce
 doggos_yes cf2b
 KingBananaCat
