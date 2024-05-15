@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/5/24 4:46 PM - V1.1.0
+//VRCWMT - UTC 15/5/24 5:00 PM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -75,6 +75,7 @@ Kepmt 9a97
 Madusa21
 SD-F
 doggos_yes cf2b
+wideopen911 81c3
 logiebear1111 6271
 tazbo80 5d56
 __Starfire__
