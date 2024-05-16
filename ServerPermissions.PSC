@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/5/24 2:10 AM - V1.1.0
+//VRCWMT - UTC 16/5/24 11:26 AM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -12,16 +12,16 @@ Puffer__Fish
 X StarDust X
 
 >> ADMINISTRATORS > Admin+Staff+VIP
-RussianKratos
 AaronFoxy10ǃ
-LicoriceLLoise
+Kipo Thomas
 JasonPlayz_HTF
-Starke․
+LicoriceLLoise
 FlintEXP
-Splice_Anomaly
+Starke․
 brod13579
 c̴͍̊ẖ̶͛ạ̷̛o̴s
-Kipo Thomas
+Splice_Anomaly
+RussianKratos
 
 >> MODERATORS > Staff+VIP
 ZacharySFM
@@ -50,7 +50,6 @@ mikeandlizzie 532d
 Harrybo0909 177d
 Springerror040
 Sophiac10 727b
-OneWhoTickles
 SD-A
 STICKY FINGERS2
 J murder drone4
@@ -63,33 +62,33 @@ LawVA_
 （D A M I A N）
 ScarDunity
 Angelia7066 58ce
-lean․hashira 0442
 PP TOUCHER
+lean․hashira 0442
 Mardok efb6
-crys․21388 68b9
 ~Mr-Demi~
+crys․21388 68b9
 Maoyii 16af
 Y⁄N≺3
 Gentle fatass cat cd39
 FRIGHT THE SCARY BUNNY 6528
 FragOutSentry
 Jaxonking28 e084
-Lukeswinney2011 f7b2
 Denjipanda
+Lukeswinney2011 f7b2
 i_love_mefedron f770
 QuezLee13 dd40
 MoonPenguinGod
-Kepmt 9a97
 Madusa21
+Kepmt 9a97
 SD-F
 doggos_yes cf2b
-wideopen911 81c3
 logiebear1111 6271
+wideopen911 81c3
 tazbo80 5d56
 Fxnt1me_not
 __Starfire__
-morton․koopa12 dadc
 chenille_vance c4fe
+morton․koopa12 dadc
 X_SillyPanda_X 62ee
 HemorrhoidHarry
 
