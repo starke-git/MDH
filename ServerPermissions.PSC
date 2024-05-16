@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/5/24 12:37 PM - V1.1.1
+//VRCWMT - UTC 16/5/24 2:33 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -31,6 +31,7 @@ fuzzytaco-
 Toxic Coco
 
 >> TEMPBANNEDPLAYERS > TempBanned
+xanderioso
 
 >> WATCHLIST > WatchList
 Kingdier108 634e
