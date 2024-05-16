@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/5/24 7:40 PM - V1.1.1
+//VRCWMT - UTC 16/5/24 7:41 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -95,6 +95,7 @@ QuezLee13 dd40
 FragOutSentry
 HemorrhoidHarry
 N-Sᴀɴɪᴛʏ
+SD-U
 
 >> VIP > VIP
 IElizabeth
