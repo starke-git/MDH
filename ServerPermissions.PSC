@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/5/24 2:07 AM - V1.1.0
+//VRCWMT - UTC 16/5/24 2:10 AM - V1.1.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -91,6 +91,7 @@ __Starfire__
 morton․koopa12 dadc
 chenille_vance c4fe
 X_SillyPanda_X 62ee
+HemorrhoidHarry
 
 >> VIP > VIP
 StoneHatchet
