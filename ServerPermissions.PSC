@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 1:57 PM - V1.1.1
+//VRCWMT - UTC 19/5/24 5:13 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -28,6 +28,9 @@ VortigauntDoc
 ZacharySFM
 fuzzytaco-
 Toxic Coco
+DʀᴏɴᴇTᴀsᴛɪᴄ
+Fantastic Lunar
+ԃαɾƙXɯσʅϝ17
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
