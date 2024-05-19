@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 9:13 PM - V1.1.1
+//VRCWMT - UTC 19/5/24 10:35 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -105,6 +105,7 @@ RRS Gaming cd99
 spl11 2db3
 JesMichellee 10bf
 treyv2
+KukuPickles
 
 >> VIP > VIP
 IElizabeth
