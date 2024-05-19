@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 18/5/24 2:21 PM - V1.1.1
+//VRCWMT - UTC 19/5/24 2:25 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -17,7 +17,6 @@ brod13579
 AaronFoxy10ǃ
 RussianKratos
 Kipo Thomas
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 LicoriceLLoise
 Starke․
 JasonPlayz_HTF
