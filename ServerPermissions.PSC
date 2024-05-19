@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 3:39 AM - V1.1.1
+//VRCWMT - UTC 19/5/24 4:06 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -97,7 +97,6 @@ SD-U
 griidysauresrex b3a9
 nig_aballs69691 3916
 c̴͍̊ẖ̶͛ạ̷̛o̴s
-n̶u̷l̵l̵
 Itzfaruuk29 287f
 
 >> VIP > VIP
