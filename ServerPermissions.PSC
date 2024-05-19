@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 4:28 AM - V1.1.1
+//VRCWMT - UTC 19/5/24 10:44 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -99,6 +99,8 @@ nig_aballs69691 3916
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 Itzfaruuk29 287f
 n̶u̷l̵l̵
+~тнσяηνα~
+KukuPickles
 
 >> VIP > VIP
 IElizabeth
