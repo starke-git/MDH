@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 2:49 AM - V1.1.1
+//VRCWMT - UTC 19/5/24 3:39 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -47,7 +47,6 @@ doggos_yes cf2b
 david․bickel․9231 3010
 Denjipanda
 Real_Luigi
-D̴͎͗I̸̦̕E̴͈̅
 Jahxhd b2a9
 Jaxonking28 e084
 ~Mr-Demi~
