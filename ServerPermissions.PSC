@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/5/24 2:44 AM - V1.1.1
+//VRCWMT - UTC 19/5/24 2:45 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -36,8 +36,6 @@ rengoku․191008 6b6d
 
 >> WATCHLIST > WatchList
 Kingdier108 634e
-
->> USR_7BCDF639-F110-41FC-9993-D6992369FD17 > HARRASSMENT, CRASHING, FALSE REPORTS.
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
