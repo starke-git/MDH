@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 20/5/24 5:38 PM - V1.1.1
+//VRCWMT - UTC 20/5/24 5:55 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -107,6 +107,7 @@ treyv2
 KukuPickles
 Brayman00 d232
 Lewspeakable54 ce7d
+Beaux Wolf
 
 >> VIP > VIP
 IElizabeth
