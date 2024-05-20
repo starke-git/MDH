@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 20/5/24 4:49 PM - V1.1.1
+//VRCWMT - UTC 20/5/24 5:38 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -86,7 +86,6 @@ BUTT LICKER 79
 Pregnant man
 MONKEY MAN 86
 dylan2013e
-Bluedragonspeed
 Fxnt1me_not
 Jmp62558 d642
 QuezLee13 dd40
