@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 24/5/24 10:56 AM - V1.1.1
+//VRCWMT - UTC 24/5/24 8:54 PM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -33,6 +33,7 @@ Toxic Coco
 xanderioso
 katie11․2023 67e6
 rengoku․191008 6b6d
+GoodwinGaming 4fbe
 
 >> WATCHLIST > WatchList
 Kingdier108 634e
@@ -110,6 +111,7 @@ Beaux Wolf
 Witherhoard_
 TheDocIsIn
 Deeznuttz710 47b5
+leland․355160 8899
 
 >> VIP > VIP
 IElizabeth
