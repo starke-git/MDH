@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 22/5/24 11:16 PM - V1.1.1
+//VRCWMT - UTC 24/5/24 10:56 AM - V1.1.1
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -83,7 +83,7 @@ FRIGHT THE SCARY BUNNY 6528
 Mardok efb6
 wideopen911 81c3
 BUTT LICKER 79
-Pregnant man
+PP TOUCHER
 MONKEY MAN 86
 dylan2013e
 Fxnt1me_not
@@ -96,7 +96,6 @@ SD-U
 griidysauresrex b3a9
 nig_aballs69691 3916
 Itzfaruuk29 287f
-n̶u̷l̵l̵
 ~тнσяηνα~
 SD-Alastor
 Megamouth0522 aa87
@@ -117,3 +116,4 @@ IElizabeth
 rookieforcookie
 StoneHatchet
 Fantastic Lunar
+LocalSS
